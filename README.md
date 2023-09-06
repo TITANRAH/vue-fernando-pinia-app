@@ -44,3 +44,49 @@ npm run build
 ```sh
 npm run lint
 ```
+
+# Para abrir Markdown el preview de Readme
+
+```
+(Ctrl + Shift) + P 
+Buscar Markdown
+```
+
+# PiniaApp Demos
+
+# Dev
+
+Pasos
+
+1. Clonar proyecto
+2. Ejecutar
+
+```
+npm i
+```
+
+3. Levantar el backend-server
+```
+npm run backend-server
+```
+
+4. Ejecutar app de Vue
+
+```
+npm run dev
+```
+
+# Para crear interfaces
+
+```
+Podemos ir a QuickType.io y pegar la respuesta http 
+Podemos instalar paste json a code , copiar la respuesta http de Postman y presionar (Ctlr + Shift) + P, pedira nombre de interface y listo
+```
+
+# Instalacion de tanstack vue-query axios 
+
+```
+ npm i @tanstack/vue-query axios
+```
+
+

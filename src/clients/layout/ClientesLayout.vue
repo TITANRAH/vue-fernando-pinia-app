@@ -5,8 +5,8 @@
 <template>
 <main>
 
-<h1>Desde clientes chaaa</h1>
-
+<!-- <h1>Desde clientes chaaa</h1> -->
+<RouterView/>
 </main>
 </template>
 
